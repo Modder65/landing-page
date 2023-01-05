@@ -1,1 +1,2 @@
 # landing-page
+This project will display a commononly used website layout mainly styled using flexbox in css. It will start as a basic layout before I specialize the content to have a specific meaning.
