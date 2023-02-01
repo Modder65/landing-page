@@ -8,7 +8,7 @@ header {
     flex-direction: column;
     justify-content: center;
     background-color: #1F2937;
-    padding-bottom: 100px;
+    padding-bottom: 15px;
 }
 
 .navigation {
@@ -17,13 +17,12 @@ header {
 }
 
 .logo img {
-    border: 2px solid black;
-    border-radius: 50%;
     width: 150px;
     height: auto;
-    background-color: lightcoral;
+    background-color: #1F2937;
     margin: 20px;
     transition: all .5s;
+    margin-left: 200px;
 }
 
 .logo img:hover {
@@ -93,10 +92,10 @@ ul {
     justify-content: flex-end;
     align-items: flex-start;
     list-style: none;
-    font-size: 18px;
+    font-size: 22px;
     color: #E5E7EB;
     gap: 15px;
-    margin: 8px;
+    margin: 50px 225px 8px 8px;
 }
 
 a {
@@ -205,4 +204,3 @@ button {
     color: ghostwhite;
     font-size: 18px;
 }
-
